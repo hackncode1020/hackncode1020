@@ -36,6 +36,22 @@
   <img width="100%" height="3" src="https://user-images.githubusercontent.com/45476843/195764513-a6e3f3a3-6693-4b31-a2c8-a26e2f5e9b19.gif">
 </p>
 
+## 📈 Instagram Reach (Last 30 Days)
+
+<div align="center">
+
+| 👁️ Views | 🔥 Interactions | ✨ New Followers | 🚪 Profile Visits | 🎬 Posts Shared |
+|:---:|:---:|:---:|:---:|:---:|
+| **50.7K** | **4.3K** | **302** | **423** | **50** |
+
+<sub>Live stats from Instagram Professional Dashboard • Updated regularly</sub>
+
+</div>
+
+<p align="center">
+  <img width="100%" height="3" src="https://user-images.githubusercontent.com/45476843/195764513-a6e3f3a3-6693-4b31-a2c8-a26e2f5e9b19.gif">
+</p>
+
 ## 🧰 Tech Arsenal
 
 <div align="center">
@@ -95,7 +111,7 @@
 
 <div align="center">
 
-**♾️ 20+ reels, 50K+ monthly views, 1 mission — code that inspires.**
+**♾️ 50K+ monthly reach, 300+ new followers a month, 1 mission — code that inspires.**
 **⭐ Follow along — new reel, new code, every time.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:00C9FF,50:39FF14,75:FF8C00,100:FF00FF&height=130&section=footer" />
